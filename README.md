@@ -1,4 +1,4 @@
-CF-Cam <img src="assets/cf-cam-app-icon.png" width="200px" align="right" />
+CF-Cam <img src="assets/cf-cam-app-icon-rounded.png" width="200px" align="right" />
 ===========
 Ultracompact fluorescence smartphone attachment using built-in optics for protoporphyrin-IX quantification in skin.
 *Biomedical Optics Express*
